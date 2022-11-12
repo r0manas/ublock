@@ -1,5 +1,5 @@
 ! Title: uBlock Origin Custom filters
-
+! edit filters https://letsblock.it/help/use-list and https://github.com/r0manas/ublock/edit/main/filters.txt
 ! Hide the list install prompt for that list
 letsblock.it###install-prompt-a4f09d9e-f5f3-4c55-9523-fb71faa5f15e
 
