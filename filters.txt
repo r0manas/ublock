@@ -77,9 +77,26 @@ www.youtube.com##ytd-search ytd-video-renderer:has(ytd-thumbnail-overlay-resume-
 !  CUSTOM RULES
 ! ----------------------------------------------------------------------------------------------------
 
-! NBA remove sidebar
+! NBA remove sidebar, hero
 www.nba.com##aside:remove()
-www.nba.com##.lg\:w-1\/4.lg\:pl-3
+www.nba.com##.lg\:w-1\/4.lg\:pl-3:remove()
+www.nba.com##.GameHero_container__uykns:remove()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ! ----------------------------------------------------------------------------------------------------
