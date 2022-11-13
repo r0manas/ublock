@@ -81,9 +81,7 @@ www.youtube.com##ytd-search ytd-video-renderer:has(ytd-thumbnail-overlay-resume-
 www.nba.com##aside:remove()
 www.nba.com##.lg\:w-1\/4.lg\:pl-3:remove()
 www.nba.com##.GameHero_container__uykns:remove()
-
-
-
+www.nba.com###companion_above_player:remove()
 
 
 
