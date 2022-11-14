@@ -101,3 +101,578 @@ www.nba.com###companion_above_player:remove()
 !  NAME
 ! ----------------------------------------------------------------------------------------------------
 
+! --------------------------------------------
+! MANGA / MANHWA / MANHUA
+! --------------------------------------------
+
+! https://mangadex.org
+||mangadex.org/images/groups/9710.png$image
+mangadex.org##div.mb-3.card:nth-of-type(2)
+
+! https://readmng.com
+readmng.com##div.page_chapter.col-md-12.content-list:nth-of-type(6) > center,div.row:nth-of-type(1) > .page_chapter-2.col-md-12.content-list,#mcdPlayer_parent_cc8c9b2e-218a-4311-ac43-8ea72b09d5e8,div.cast.row:nth-of-type(2) > .col-md-12,div.cast.row:nth-of-type(3) > .col-md-12,#b8e99061-4dfa-49f8-ade2-f34aaab47a9a,.col-md-4.col-right,video:nth-of-type(1),.alert-info.alert,.ad_anchor_bottom,#pageUpBtn,.ads-title,.avp-p-gui,.facebook,.twitter,.center,.slider,.footer,.scroll_target_top
+!readmng.com##.col-md-4.col-right > div:nth-of-type(2)
+*##static-cdn.spot.im/production/launcher/tags/v2.42.9/launcher/conversation.svg$image
+
+! 2022-03-26 https://www.asurascans.com
+asurascans.com##[href="https://discord.gg/asurascans1"]
+
+! newtoki*.com
+*###vporbiktfglqnmjhseduc,#kqeulbpdcfsvmiortjgnh,#main-banner-view,.at-content > div.row-15.row:nth-of-type(2),.basic-banner,#id_mbv
+! https://manhuaplus.com
+manhuaplus.com##.sticky
+
+! https://funbe.fun
+funbe.*##.mobile-banner.col-md-12,.bnt.bn,[href^="https://hshsfun.com/"],[href="https://seda9.bet/"]
+
+! madara theme
+*##.col-sm-4.col-md-4.sidebar-col,.c-top-second-sidebar.c-sidebar,.wp-manga.c-top-sidebar.c-sidebar,.c-top-sidebar.c-sidebar
+
+! Powered by Genkan.
+*###homepageCarousel:remove()
+*##.col-md-3.col-sm-12.col-xs-12:remove()
+*##.py-4.w-100:remove()
+*###rsads
+*##[href^="https://tm-offers.gamingadult.com/"]
+
+! Live chat Chat
+
+! *##body > yt-live-chat-app:remove()
+
+! https://mangadex.org
+||mangadex.org/images/groups/2247.jpg$image
+
+! https://raw.senmanga.com
+raw.senmanga.com##.container-fluid > .media, .reader-tags
+
+! https://nuxscans.blogspot.com
+nuxscans.blogspot.com##.center-inner,#footer-wrapper,.paypal,.post-footer,.back-top,.section.intro-section
+!nuxscans.blogspot.com###header-wrap
+
+! https://rawdevart.com
+rawdevart.com##.manga-slider-container,.genre-slider,.my-3.card,.mb-3.card-body.card,.col-lg-4 > div.mb-3.card:nth-of-type(1),div.mb-3.card:nth-of-type(5),div.mb-3.card:nth-of-type(6),.BJ9yoO3k8EQfnqZF,.alert-success.alert-dismissible.alert,body > .row > .col-12 > .card > .card-header
+
+! https://cocomanhua.com
+@@||cocomanga.com/js/ad_/ad2.js$xhr,1p
+*$script,redirect-rule=noopjs,domain=cocomanga.com
+@@||cocomanga.com/js/dynamicjs.js$script,1p
+@@||cdn.runative-syndicate.com^$script,domain=cocomanga.com
+@@||cocomanga.com/js/a_d/ad1.js
+@@||cocomanga.com^$ghide
+||cocomanga.com/js/ad/$image
+cocomanga.com##.fed-back-whits.fed-part-layout.fed-foot-info
+cocomanga.com##+js(aeld, /.?/, popMagic)
+cocomanga.com##+js(nostif, checkSiteNormalLoad)
+
+! https://manhuatai.com
+manhuatai.com##.banner-wrapper,.acgn-page-content,.acgn-sort-header-image.acgn-page-header,.header-right
+
+! https://mangakakalots.com
+mangakakalots.com##.slide,footer,.fb_iframe_widget_fluid_desktop.fb_iframe_widget.fb-comments > span,.comments,body > div.container > div.main-wrapper > div.leftCol > div:nth-child(1),.info-top-chapter,.current-chapter,#noidungm,.middleCol,.btn_chapterslist,#content_less
+
+mangakakalots.com###noidungm,.middleCol,.btn_chapterslist,#content_less:remove()
+mangakakalots.com##.leftCol:style(width: 100% !important)
+mangakakalots.com###vungdoc:style(width: 990px !important; margin: 0 auto !important;)
+mangakakalots.com##.manga-info-top:style(max-height: 350px; !important;)
+mangakakalots.com##.option_wrap:style(background: #eee !important;)
+mangakakalots.com##.manga-info-pic img:style(width: auto !important;)
+mangakakalots.com##body:style(max-width: 1020px !important; margin: 0 auto !important;)
+
+! --------------------------------------------
+! NOVELS
+! --------------------------------------------
+
+! https://lnmtl.com
+lnmtl.com##div.container > div > .alert-info.alert,#shadow-root,#.footer
+
+! https://www.wuxiaworld.com
+www.wuxiaworld.com###sidebar,#chapter-bar,.footer,#sidebar,#chapter-bar
+
+! --------------------------------------------
+! STREAMS online
+! --------------------------------------------
+
+play.tv3.lt###tvplay-player > div.jw-wrapper.jw-reset > div.jw-controls.jw-reset > div.jw-controlbar.jw-reset > div.jw-reset.jw-button-container > div.jw-icon.jw-icon-inline.jw-button-color.jw-reset.tvp-icon-share:remove()
+
+@@||playapi.mtgx.tv/v3/adinfo?$xmlhttprequest,domain=tvplay.skaties.lv|play.tv3.lt|tv3play.tv3.ee|play.nova.bg
+
+! https://www.nba.com
+nba.*##.Footer_footer__2rHyp, div.xxl\:px-0.md\:p-7.p-0.mx-auto.max-w-screen-xl:nth-of-type(6), div.xxl\:px-0.md\:p-7.p-0.mx-auto.max-w-screen-xl:nth-of-type(2)
+
+! http://nbastream.tv
+nbastream.tv###iframe_preview
+
+! http://live.jokerswidget.com
+live.jokerswidget.com##.sidebar.col-xl-3,.f1-footer,.content-header,.chat,.col-lg-12
+
+! https://lnk.lt
+lnk.lt##.mb-4.d-lg-flex.d-none.col-small.col
+
+! https://free-123movies.com
+free-123movies.com##.wIqjGsnrzd,.jw-reset.jw-logo-bottom-right.jw-logo,.popOverForADSInPlayer,.jw-reset.jw-logo-top-right.jw-logo,.jw-reset.jw-logo-bottom-left.jw-logo,.hhotnews,.aattention,.suZhIKpCGB > div,.plgJOfanMl,.WophOjcABS.jZdVxcVKqq,.essCAsKQri,.sadhjasdjkASDd
+
+! --------------------------------------------
+! BASKETEWS
+! --------------------------------------------
+
+! https://www.basketnews.lt/
+basketnews.lt/config/basketnews.lt/themes/ads*/*.jpg$image
+basketnews.lt##.image_block_scroll, .mdrw23f2azd5, .\35 apveorgzdiq, .ky6hspkxglip, .lightgallery_slider.image_block > .image, .maz9cm3btq4, .\35 j936agyigyr, .n7mr2277rb6n
+
+! https://www.eurohoops.net
+eurohoops.net##.gl-video.clearfix
+
+! https://www.lkl.lt
+lkl.lt##.vertical-slider.tv-listing,.banners-two,.hidden-xs.sponsors-links,.banner-full,.footer-links,.footer,.sidebar.article-sidebar.hidden-xs.col-md-4
+
+||www.youtube.com/embed/q6BSxU4QhUE$subdocument
+
+! --------------------------------------------
+! Redirect Google services
+! --------------------------------------------
+
+||doubleclick.net/instream/ad_status.js$script,redirect=doubleclick.net/instream/ad_status.js,important
+||google-analytics.com/analytics.js$script,redirect=google-analytics.com/analytics.js,important
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js,important
+||google-analytics.com/plugins/ga/inpage_linkid.js$script,redirect=google-analytics.com/inpage_linkid.js,important
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js,important
+||scorecardresearch.com/beacon.js$script,redirect=scorecardresearch.com/beacon.js,important
+||googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=googlesyndication.com/adsbygoogle.js,important
+
+*##.ads, .adsbygoogle
+
+! --------------------------------------------
+! SMOOTH scroll
+! --------------------------------------------
+
+*/jquery.nicescroll*.js$script
+*/jquery.smoothscroll*.js$script
+*/jquery.smooth-scroll*.js$script
+*/jquery-smoothscroll*.js$script
+*/jquery-smooth-scroll*.js$script
+*/nicescroll*.js$script
+*/smoothscroll*.js$script
+*/smooth-scroll*.js$script
+*/mousewheel-smooth-scroll
+*/surbma-smooth-scroll
+*themes/logistic/scripts/*.js$script
+*/dexp-smoothscroll.js$script
+
+! --------------------------------------------
+! right-click blockers
+! --------------------------------------------
+
+*/disablerightclick.
+*/no-right-click-images-plugin/*$script
+*/norightclick.
+*/right-click-disable
+*/plugins/CopyRightPro
+
+! --------------------------------------------
+! browser rejection
+! --------------------------------------------
+
+/jquery.reject*.js$script
+! this blocks jquery.reject.js, but without risk of breaking other JS
+##div>#jr_overlay
+##div>#jr_wrap
+/plugins/advanced-browser-check/*
+
+! --------------------------------------------
+!
+! --------------------------------------------
+
+||carbonads.net^
+
+! --------------------------------------------
+!
+! --------------------------------------------
+
+! https://app.mediafire.com
+||checkout.mediafire.com/widgets/premium_trial.php$subdocument
+
+! https://reddit.com
+reddit.com##._31AVRNJbVMh2DUFRrpCQcD,._20b4i5iUhjZQqDZ1BM_Q-9._2Xq-4oyrEvHjL5U_EeMnK8
+
+! https://vecteezy.com
+!vecteezy.com##.ez-resource-thumb--pro
+!vecteezy.com##.ez-resource-thumb--pro:remove()
+
+! 2021-02-05 https://jsfiddle.net
+jsfiddle.net##.twitterCont
+
+! 2021-02-05 https://babiato.co
+babiato.co##.notice-content
+babiato.co##.js-bottomFixTarget.u-bottomFixer
+
+! https://www.tesla.com
+
+tesla.com##video.hero__asset.hero-video:remove()
+
+! 2021-02-06 https://www.freepik.com
+www.freepik.com##.adobe-coupon-container.notifications__bottom-right
+
+! 2021-02-06 https://docviewer.yandex.ru
+docviewer.yandex.ru##.ysimaac.gxidhec.hxztzs > div
+
+! 2021-02-08 https://babiato.co
+babiato.co##.carousel--withFooter.carousel
+
+! https://babiato.co
+babiato.co##.ads:remove()
+
+! 2021-02-10 https://lovepik.com
+lovepik.com###page_seo
+lovepik.com##.recruit
+lovepik.com###footer_new
+lovepik.com##.pop_act_sd
+lovepik.com##.pop_window_right
+lovepik.com##.act_lazy.fools_banner_tip
+
+! 2021-02-10 https://tii.ai
+tii.ai##.text-left, .copyright-container, .navbar-default.navbar
+tii.ai##body.captcha-page body.banner-page:style(margin: 20% auto !important;)
+
+! 2021-02-10 https://lovepik.com
+lovepik.com##.lazy.fools_banner_tip
+
+! 2021-02-10 https://monsterone.com
+monsterone.com##.PlasmaPromotion--animationJs.PlasmaPromotionJs.PlasmaPromotion
+
+! 2021-02-13 https://www.figma.com
+www.figma.com##.modal--modalBare--2SeY8.modal--modalShadow--HbHkT.modal--modal--OAB3b.footer_banner--bannerTop--2_8M9.footer_banner--banner--H-B_t.footer_banner--googleBanner--3dAQe
+
+! 2021-02-13 https://drivemere.org
+drivemere.org###tidio-chat
+
+! 2021-02-21 https://www.123rf.com
+www.123rf.com##.aligned.center.vertical-top.margin.row
+
+! 2021-03-02 https://leviatanscans.com
+leviatanscans.com##[src="https://leviatanscans.com/storage/carousel/jSisLtL8V8bSwmga6pjCTISV2sfZ0sLU1txd9ffn.gif"]
+
+! 2021-03-02 https://mangallama.com
+mangallama.com##.owl-drag.owl-loaded.owl-carousel
+mangallama.com##.dispnone.col-lg-3
+mangallama.com##[href="https://go.onelink.me/C8lz/866bd6ce"]
+
+! 2021-03-13 https://twilightscans.com
+twilightscans.com##.sticky.with-border.c-sub-header-nav.no-subnav
+
+! 2021-03-22 https://www.readmng.com
+www.readmng.com###ml-pageid-1
+
+! 2021-03-28 https://manhwatop.com
+manhwatop.com##.sticky.with-border.c-sub-header-nav
+manhwatop.com##.related-manga.c-row.row
+manhwatop.com##.site-footer
+manhwatop.com##div.row:nth-of-type(4)
+manhwatop.com##.wp-manga-tags-wrapper
+manhwatop.com##[src="https://manhwatop.com/single-image-top-bottom.jpg"]
+
+! 2021-03-29 https://readm.org
+readm.org##.bg-cover-faker > center
+readm.org##.footer
+
+! 2021-03-30 https://nuxscans-comics.blogspot.com
+nuxscans-comics.blogspot.com###footer-wrapper
+nuxscans-comics.blogspot.com###sub-paypal-wrapper
+nuxscans-comics.blogspot.com##.post-footer
+
+! 2021-03-31 https://mangakatana.com
+mangakatana.com###hot_update
+
+! 2021-04-02 https://immortalupdates.com
+immortalupdates.com##.sticky.with-border.c-sub-header-nav.no-subnav
+immortalupdates.com##.main-col-inner > .row
+immortalupdates.com##.site-footer
+
+! 2021-04-02 https://xcalibrscans.com
+xcalibrscans.com###footer
+
+! 2021-04-03 https://immortalupdates.com
+immortalupdates.com##.sticky.with-border.c-sub-header-nav
+
+! 2021-04-03 https://tritinia.com
+tritinia.com##.idcac.blur.mfp-ready.mfp-newspaper.mfp-auto-cursor.mfp-wrap
+tritinia.com##.blur.mfp-ready.mfp-newspaper.mfp-bg
+tritinia.com##.site-footer
+
+! 2021-04-10 https://readmanhua.net
+readmanhua.net##.related-manga.c-row.row
+readmanhua.net##div.row:nth-of-type(2)
+readmanhua.net##.wp-manga-tags-wrapper
+readmanhua.net##.site-footer
+
+! 2021-04-10 https://www.basketnews.lt
+www.basketnews.lt##.expandable_menu_block
+
+! 2021-04-15 https://m.manganelo.com
+
+m.manganelo.com##.container-silder.container
+m.manganelo.com##.container-main-right
+m.manganelo.com##.container-footer.container
+m.manganelo.com##.a-h.panel-fb-comment.panel-story-comment
+
+! 2021-04-15 https://chap.manganelo.com
+chap.manganelo.com##.container-footer.container
+chap.manganelo.com##.a-h.panel-fb-comment.panel-chapter-comment
+chap.manganelo.com##.body-site > div > [href="https://m.manganelo.com/w"]
+chap.manganelo.com##.container-main-right
+chap.manganelo.com##.a-h.panel-fb-comment.panel-story-comment
+chap.manganelo.com##.container-silder.container
+
+! 2021-04-16 http://nbastream.tv
+nbastream.tv##.site-footer
+nbastream.tv##.entry-header
+nbastream.tv##.inside-article > .entry-meta
+nbastream.tv##body > p
+nbastream.tv###fcnbox
+nbastream.tv##.inside-article > div > h3
+nbastream.tv##h2:nth-of-type(1)
+nbastream.tv##h2:nth-of-type(2)
+
+! 2021-05-04 https://www.nba.com
+www.nba.com##.mvpd-modal-overlay
+
+! 2021-05-12 https://www.youtube.com
+www.youtube.com###clarify-box
+
+! 2021-05-21 https://immortalupdates.com
+immortalupdates.com##[src="https://immortalupdates.com/wp-content/uploads/2021/05/banner-2.gif"]
+
+! 2021-05-27 https://skscans.com
+skscans.com##.c-sidebar
+
+! 2021-05-29 https://immortalupdates.com
+immortalupdates.com##.body-top-sidebar
+immortalupdates.com##.body-bottom-sidebar
+
+! 2021-05-29 https://leviatanscans.com
+leviatanscans.com##.widget-manga-slider.manga-widget.heading-style-1.no-icon.default.col-md-12.col-12.widget
+
+! 2021-06-08 http://123tv.live
+123tv.live##.js-demo-avd.demo-avd
+
+! 2021-06-11 https://kktoon35.com
+kktoon35.com##center:nth-of-type(1)
+kktoon35.com##[href^="https://spin589.com/"]
+kktoon35.com###banner_left_wing
+kktoon35.com##.at-menu
+||kktoon35.com/mainhover/side/*$image
+kktoon35.com##.no-attach.view-head.panel-default.panel.contents > [href^="http://sun-6547.com/"]
+
+! 2021-06-14 https://mangadex.org
+mangadex.org##div.header:nth-of-type(2)
+
+! 2021-06-18 https://imperfectcomic.com
+imperfectcomic.com##.sticky.with-border.c-sub-header-nav
+
+! 2021-06-21 https://comickiba.com
+comickiba.com##.sticky.with-border.c-sub-header-nav
+
+! 2021-07-13 https://reaperscans.com
+||reaperscans.com/wp-content/uploads/2021/07/cover-2.png$image
+||reaperscans.com/wp-content/uploads/2021/07/cover-2.png$image
+
+! 2021-07-19 https://reaperscans.com
+||reaperscans.com/wp-content/uploads/2021/07/cover.webp$image
+||reaperscans.com/wp-content/uploads/2021/07/cover.webp$image
+
+! 2021-07-19 https://www.basketnews.lt
+www.basketnews.lt##.banner
+
+! 2021-07-21 https://www.readmng.com
+www.readmng.com##dd:nth-of-type(10)
+
+! 2021-07-22 https://booktoon.today
+booktoon.today##div.col-xs-12.col-sm-12.col-md-12.col-10:nth-of-type(6)
+booktoon.today##div.col-xs-12.col-sm-12.col-md-12.col-10:nth-of-type(5)
+booktoon.today##div.col-xs-12.col-sm-6.col-md-6.col-10:nth-of-type(4)
+booktoon.today##div.col-xs-12.col-sm-6.col-md-6.col-10:nth-of-type(3)
+booktoon.today##div.col-xs-12.col-sm-6.col-md-6.col-10:nth-of-type(2)
+booktoon.today##div.col-xs-12.col-sm-6.col-md-6.col-10:nth-of-type(1)
+booktoon.today###at-right
+
+! 2021-07-28 https://www.readmng.com
+www.readmng.com##dd:nth-of-type(11)
+
+! 2021-08-06 https://miracleteam.shop
+miracleteam.shop##.show.fade.modal-backdrop
+
+! 2021-08-07 http://192.168.0.105:1234
+192.168.0.105##.swiff-uploader-box
+
+! 2021-08-08 https://gawercave.weebly.com
+||bestdatting.com/r6x7sX?frm=frame&se_referrer=https%3A%2F%2Fwww.google.com%2F&default_keyword=need+for+speed+underground+2+update+v1.2+cracked+hoodlum&$subdocument
+
+! 2021-08-12 https://lynxscans.com
+lynxscans.com##.py-2.px-3.justify-content-center.flex.row
+
+! 2021-08-17 https://mynewsmedia.co
+mynewsmedia.co###__vliadb83-bg
+mynewsmedia.co##.__vliadb83-content
+
+! 2021-08-20 http://nfsu2-renamer.aspfree.cz
+nfsu2-renamer.aspfree.cz##.video-background
+
+! 2021-08-20 https://reaperscans.com
+reaperscans.com##.col-xs-12.col-sm-12.col-md-4
+
+! 2021-08-26 https://www.freepik.com
+www.freepik.com##.notify-wrapper--top.notify-wrapper
+
+! 2021-08-26 https://babiato.co
+babiato.co##.adsbygoogle,.ads_center
+
+! 2022-02-19 https://manhuaplus.com
+manhuaplus.com##.wp-manga-tags-wrapper
+manhuaplus.com##.col-lg-12.col-md-12.col-sm-12.col-12.sidebar-hidden
+
+! 2022-02-19 http://live.jokerswidget.org
+live.jokerswidget.org##.col-xl-12 > .row
+
+! 2022-02-22 https://www.lrt.lt
+www.lrt.lt##.news-feed-horizontal.section--full-width.section
+
+! 2022-02-23 https://www.jokerlivestream.xyz
+www.jokerlivestream.art##.f1-bg--colorTheme.f1-color--white.f1-bg--carbonBlack.f1-race-hub--latest
+
+! 2022-02-24 https://www.youtube.com
+www.youtube.com##.ytp-right-controls > div.ytp-button
+
+! 2022-02-24 http://live.jokerswidget.org
+live.jokerswidget.org##.f1-footer
+live.jokerswidget.org##.table-header-group.nav-global
+live.jokerswidget.org##.sidebar.col-xl-3
+live.jokerswidget.org##.col-lg-12 > .f1-border-color--gray6.f1-border--three-right
+live.jokerswidget.org##.f1-bg--colorTheme.f1-color--white.f1-bg--carbonBlack.f1-race-hub--latest
+
+! 2022-02-24 https://tritinia.com
+tritinia.com##.c-top-second-sidebar.c-sidebar
+tritinia.com##.col-sm-4.col-md-4.sidebar-col
+
+! 2022-02-27 http://live.jokerswidget.org
+*##.snackbar
+
+@@||xyz^$xhr,domain=live94today.com
+
+! 2022-03-01 https://www.youtube.com
+www.youtube.com##.ytp-ce-element
+
+! 2022-03-01 http://ws.freestreams-live1.com
+ws.freestreams-live1.com###custom_html-186
+
+! 2022-03-06 https://www.nba.com
+www.nba.com##article.GamesLeaguePassPreviewCard_base__2d1Bh.mb-4.md\:hidden:nth-of-type(1)
+www.nba.com##article.GamesLeaguePassPreviewCard_base__2d1Bh.mb-4.md\:hidden:nth-of-type(2)
+www.nba.com##article.GamesLeaguePassPreviewCard_base__2d1Bh.mb-4.md\:hidden:nth-of-type(3)
+
+! 2022-03-07 https://reaperscans.com
+reaperscans.com##.read-next.latest
+reaperscans.com##.related-manga.c-row.row
+
+! 2022-03-07 https://basketnews.lt
+basketnews.lt##.banner
+
+! 2022-03-07 https://imperfectcomic.com
+imperfectcomic.com###teaser3
+imperfectcomic.com##div.bixbox:nth-of-type(1)
+imperfectcomic.com##.comments-area.bixbox
+imperfectcomic.com###footer
+imperfectcomic.com###sidebar
+imperfectcomic.com##.slidtop
+imperfectcomic.com##.hothome.bixbox > .listupd
+imperfectcomic.com##.hothome.bixbox > .releases
+
+! 2022-03-11 https://nbafullhd.com
+nbafullhd.com##.site-footer
+
+! 2022-03-15 http://0eb.net
+0eb.net##div > table > tbody > tr
+
+! 2022-03-17 https://f1full.com
+f1full.com###id-custom_banner
+
+! 2022-03-19 http://fb.freestreams-live1.com
+fb.freestreams-live1.com###custom_html-186
+fb.freestreams-live1.com###custom_html-150
+fb.freestreams-live1.com###text-2
+fb.freestreams-live1.com###custom_html-67
+
+! 2022-03-19 https://www.f-1.lt
+www.f-1.lt##[src="https://www.f-1.lt/nuotraukos/spelion1.jpg"]
+
+! 2022-03-20 http://cf.freestreams-live1.com
+cf.freestreams-live1.com###custom_html-186
+
+! 2022-03-24 https://manhuascan.com
+manhuascan.com##.navbar-responsive-collapse.navbar-fixed-top.navbar-inverse.navbar.headroom
+
+! 2022-03-25 http://gt.freestreams-live1.com
+gt.freestreams-live1.com###custom_html-186
+
+! 2022-03-29 https://xcalibrscans.com
+xcalibrscans.com##[href="https://discord.gg/HecjGzh"]
+
+! 2022-03-30 https://flamescans.org
+flamescans.org##[href="https://discord.gg/flamemisc"]
+
+! 2022-03-31 https://luminousscans.com
+luminousscans.com##[href="https://discord.gg/TwnqpUXEyX"]
+
+! 2022-04-06 http://jokersecretpage.xyz
+jokersecretpage.xyz##.sidebar.col-xl-3
+
+! 2022-04-08 http://rf.freestreams-live1.com
+rf.freestreams-live1.com###custom_html-186
+
+! 2022-04-15 https://zeroscans.com
+zeroscans.com##.mt-5.zs-bg-1.theme--dark.v-sheet.v-card.align-center.justify-center.d-flex.pa-4.w-100.rounded.relative.swordflake-ad
+zeroscans.com##.hooper.relative.rounded.elevation-2.overflow-hidden.zs-bg-none.carousel--hooper
+zeroscans.com##.absolute-right > .hooper
+zeroscans.com##.col-12.col-xl-3.col-lg-4.col-md-4.col-sm-5
+zeroscans.com##.pa-4.mb-5 > .mt-5.zs-bg-4.theme--dark.v-sheet.v-card--flat.v-card.align-center.justify-center.d-flex.pa-4.w-100.rounded.relative.swordflake-ad
+zeroscans.com##.container--fluid.pa-0.container > div.pa-4
+
+! 2022-04-23 https://zeroscans.com
+zeroscans.com##.px-4 > div
+
+! 2022-04-24 http://mx.freestreams-live1.com
+mx.freestreams-live1.com##.e-swiper-container.elementor-widget-wrap
+
+! 2022-04-27 http://stream.nbalives.tv
+stream.nbalives.tv##.sidebar
+stream.nbalives.tv##.site-footer
+stream.nbalives.tv##body > p
+
+! 2022-04-28 https://www.nba.com
+www.nba.com##aside
+www.nba.com##.lg\:w-1\/4.lg\:pl-3
+
+! 2022-04-29 https://flamescans.org
+flamescans.org##article[class^="post-"] > div.main-info > div.first-half > div.info-half > div.summary > div > div.entry-content.entry-content-single > h2, p:nth-child(4),p:nth-child(5),p:nth-child(6),.series-webm:remove()
+
+! 2022-04-29 https://www.asurascans.com
+www.asurascans.com##p > [href="https://asura.gg/discord"]
+
+! 2022-05-13 https://www.readmng.com
+www.readmng.com##.rnavbot.readingnav
+
+! 2022-05-20 https://nbahd.com
+nbahd.com###id-custom_banner
+
+! 2022-05-23 https://svelte.dev
+svelte.dev##.svelte-1vzj3k2.ukr
+
+! 2022-05-23 https://kit.svelte.dev
+kit.svelte.dev##[href="https://www.stopputin.net/"]
+
+! 2022-11-10 https://www.nba.com
+www.nba.com##.GameHero_container__uykns
+www.nba.com##.Columns_right__RMqRd
+
+! 2022-11-12 https://www.nba.com
+www.nba.com##.GameSummary_storyBlock__3WBvj.Block_block__62M07
+
+
